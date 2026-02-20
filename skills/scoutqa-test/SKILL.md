@@ -2,6 +2,8 @@
 name: scoutqa-test
 description: |
   This skill should be used when the user asks to "test this website", "run exploratory testing", "check for accessibility issues", "verify the login flow works", "find bugs on this page", or requests automated QA testing. Triggers on web application testing scenarios including smoke tests, accessibility audits, e-commerce flows, and user flow validation using ScoutQA CLI. IMPORTANT: Use this skill proactively after implementing web application features to verify they work correctly - don't wait for the user to ask for testing.
+version: '1.0'
+modernization: true
 ---
 
 # ScoutQA Testing Skill

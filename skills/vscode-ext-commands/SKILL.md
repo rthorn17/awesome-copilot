@@ -1,6 +1,8 @@
 ---
 name: vscode-ext-commands
 description: 'Guidelines for contributing commands in VS Code extensions. Indicates naming convention, visibility, localization and other relevant attributes, following VS Code extension development guidelines, libraries and good practices'
+version: '1.0'
+modernization: false
 ---
 
 # VS Code extension command contribution

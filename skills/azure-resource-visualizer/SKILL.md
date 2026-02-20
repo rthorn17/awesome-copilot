@@ -4,6 +4,8 @@ description: Analyze Azure resource groups and generate detailed Mermaid archite
 license: Complete terms in LICENSE.txt
 metadata:
   author: Tom Meschter (tom.meschter@microsoft.com)
+version: '1.0'
+modernization: true
 ---
 
 # Azure Resource Visualizer - Architecture Diagram Generator

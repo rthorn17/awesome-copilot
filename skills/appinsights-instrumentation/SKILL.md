@@ -1,6 +1,8 @@
 ---
 name: appinsights-instrumentation
 description: 'Instrument a webapp to send useful telemetry data to Azure App Insights'
+version: '1.0'
+modernization: true
 ---
 
 # AppInsights instrumentation

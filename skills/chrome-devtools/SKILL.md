@@ -2,6 +2,8 @@
 name: chrome-devtools
 description: 'Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling performance.'
 license: MIT
+version: '1.0'
+modernization: false
 ---
 
 # Chrome DevTools Agent

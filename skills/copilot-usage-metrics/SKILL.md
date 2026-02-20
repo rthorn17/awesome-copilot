@@ -1,6 +1,8 @@
 ---
 name: copilot-usage-metrics
 description: Retrieve and display GitHub Copilot usage metrics for organizations and enterprises using the GitHub CLI and REST API.
+version: '1.0'
+modernization: false
 ---
 
 # Copilot Usage Metrics

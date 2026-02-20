@@ -8,6 +8,8 @@ description: >
   FluentDialog, FluentToast, FluentNavMenu, FluentTextField, FluentSelect,
   FluentAutocomplete, FluentDesignTheme, or any component prefixed with "Fluent".
   Also use when troubleshooting missing providers, JS interop issues, or theming.
+version: '1.0'
+modernization: true
 ---
 
 # Fluent UI Blazor — Consumer Usage Guide

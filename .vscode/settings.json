@@ -17,5 +17,12 @@
   "yaml.schemas": {
     "./.schemas/collection.schema.json": "*.collection.yml",
     "./.schemas/tools.schema.json": "website/data/tools.yml",
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell 7",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell 7": {
+      "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+      "icon": "terminal-powershell"
+    }
   }
 }

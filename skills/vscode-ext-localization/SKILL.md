@@ -1,6 +1,8 @@
 ---
 name: vscode-ext-localization
 description: 'Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices'
+version: '1.0'
+modernization: false
 ---
 
 # VS Code extension localization

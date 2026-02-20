@@ -4,6 +4,7 @@ description: 'Use this skill to get context about Fabric Lakehouse and its featu
 metadata:
   author: tedvilutis
   version: "1.0"
+modernization: true
 ---
 
 # When to Use This Skill

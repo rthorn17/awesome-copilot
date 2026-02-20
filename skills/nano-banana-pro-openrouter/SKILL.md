@@ -9,6 +9,8 @@ metadata:
     env:
       - OPENROUTER_API_KEY
   primaryEnv: OPENROUTER_API_KEY
+version: '1.0'
+modernization: false
 ---
 
 

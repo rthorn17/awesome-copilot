@@ -1,6 +1,8 @@
 ---
 name: create-web-form
 description: 'Create robust, accessible web forms with best practices for HTML structure, CSS styling, JavaScript interactivity, form validation, and server-side processing. Use when asked to "create a form", "build a web form", "add a contact form", "make a signup form", or when building any HTML form with data handling. Covers PHP and Python backends, MySQL database integration, REST APIs, XML data exchange, accessibility (ARIA), and progressive web apps.'
+version: '1.0'
+modernization: false
 ---
 
 # Create Web Form Skill
